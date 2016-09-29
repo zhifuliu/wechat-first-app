@@ -1,0 +1,24 @@
+{
+  "name": "wechat-first-app",
+  "version": "0.0.0",
+  "description": "微信小程序实验",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhifuliu/wechat-first-app.git"
+  },
+  "keywords": [
+    "微信小程序",
+    "wechat",
+    "app"
+  ],
+  "author": "zhifu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhifuliu/wechat-first-app/issues"
+  },
+  "homepage": "https://github.com/zhifuliu/wechat-first-app#readme"
+}
